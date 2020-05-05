@@ -41,7 +41,7 @@ def selectMarker():
         else:
             player1 = input("Please pick a marker 'X' or 'O' ")
 
-
+# Game play
 def game(player1, player2):
 
     turn = choose_first()
